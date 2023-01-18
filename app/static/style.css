@@ -1,0 +1,181 @@
+body{
+    background-color:black;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size:1.15rem;
+}
+h1{
+    text-align: center;
+    color:whitesmoke
+}
+h2{
+    text-align: center;
+    color:whitesmoke;
+}
+h3{
+    text-align: center;
+    color:whitesmoke;
+}
+
+.Sidney{
+    text-align: left;
+    color:aqua;
+    margin-right: 150px;
+    margin-left: 80px;
+    line-height: 1.5;
+}
+
+.SidneyPhone{
+    text-align: right;
+    color:aqua;
+    margin-right: 150px;
+    margin-left: 80px;
+    line-height: 1.5;
+}
+
+.Stranger1{
+    text-align: right;
+    color:blueviolet;
+    margin-right: 150px;
+    margin-left: 80px;
+    line-height: 1.5;
+}
+
+.Stranger2{
+    text-align: right;
+    color:rosybrown;
+    margin-right: 150px;
+    margin-left: 80px;
+    line-height: 1.5;
+}
+
+.Lisa{
+    text-align: right;
+    color:coral;
+    line-height: 1.5;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+.LisaWhisper{
+    text-align: right;
+    color:coral;
+    line-height: 1.5;
+    font-size: 10px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+.Samir{
+    color: crimson;
+    line-height: 1.5;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+.Doe{
+    color: rgb(15, 170, 15);
+    line-height: 1.5;
+    margin-right: 150px;
+    margin-left: 80px;
+    text-align: right;
+}
+
+.Pres{
+    color:rgb(20,47,160);
+    line-height: 1.5;
+    margin-right: 150px;
+    margin-left: 80px;
+    text-align: right;
+}
+
+
+.Jon{
+    color: rgb(18, 96, 18);
+    line-height: 1.5;
+    margin-right: 150px;
+    margin-left: 80px;
+    text-align: right;
+}
+
+.Skye{
+    color: silver;
+    text-align: left;
+    line-height: 1.5;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+.Al{
+    color: slategray;
+    text-align: left;
+    line-height: 1.5;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+.Opal{
+    color: #a8c3bc ;
+    text-align: right;
+    line-height: 1.5;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+.Brian{
+    color: yellowgreen;
+    text-align: right;
+    line-height: 1.5;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+.Ryan{
+    color: #86cfa4 ;
+    text-align: right;
+    line-height: 1.5;
+    margin-right: 250px;
+    margin-left: 80px;
+}
+
+.Onyx{
+    color: palevioletred ;
+    text-align: left;
+    line-height: 1.5;
+    margin-right: 150px;
+    margin-left: 180px;
+}
+
+.Aide{
+    color: burlywood ;
+    text-align: left;
+    line-height: 1.5;
+    margin-right: 150px;
+    margin-left: 180px;
+}
+
+
+.Text{
+    color: whitesmoke;
+    text-align: left;
+    line-height: 1.5;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+.NPR{
+    color: orangered;
+    text-align: left;
+    line-height: 1.5;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+
+.next{
+    display: block;
+    width: 80%;
+    padding-top: 200%;
+    background-image: url(./nextPage.png);
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
